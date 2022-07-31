@@ -10,3 +10,10 @@ Assignment 1:
 * Create Controller and get by ID URL
 * Create Service and service implementation
 * Test in Postman
+
+Assignment 2:
+* For the Customer object, create the following endpoints:
+  * POST - Create new object
+  * PUT - Update existing object
+  * DELETE - Delete object
+* Create service stubs similar to the BeerDto class
