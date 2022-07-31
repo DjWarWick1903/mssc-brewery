@@ -1,7 +1,7 @@
-package guru.springframework.msscbrewery.web.controller;
+package guru.springframework.msscbrewery.web.controller.v1;
 
-import guru.springframework.msscbrewery.services.BeerService;
-import guru.springframework.msscbrewery.web.model.BeerDto;
+import guru.springframework.msscbrewery.services.v1.BeerService;
+import guru.springframework.msscbrewery.web.model.v1.BeerDto;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -12,10 +12,10 @@ import java.util.UUID;
 /**
  * Created by jt on 2019-04-20.
  */
+@Deprecated
 @RequestMapping("/api/v1/beer")
 @RestController
 public class BeerController {
-
     private final BeerService beerService;
 
     public BeerController(BeerService beerService) {

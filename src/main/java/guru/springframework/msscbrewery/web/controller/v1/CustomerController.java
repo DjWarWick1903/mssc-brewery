@@ -1,8 +1,7 @@
-package guru.springframework.msscbrewery.web.controller;
+package guru.springframework.msscbrewery.web.controller.v1;
 
-import guru.springframework.msscbrewery.services.CustomerService;
-import guru.springframework.msscbrewery.web.model.BeerDto;
-import guru.springframework.msscbrewery.web.model.CustomerDto;
+import guru.springframework.msscbrewery.services.v1.CustomerService;
+import guru.springframework.msscbrewery.web.model.v1.CustomerDto;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
