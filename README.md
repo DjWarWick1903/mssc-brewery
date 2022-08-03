@@ -17,3 +17,10 @@ Assignment 2:
   * PUT - Update existing object
   * DELETE - Delete object
 * Create service stubs similar to the BeerDto class
+
+Assignment 3:
+* Make the Name property of CustomerDTO
+  * Non-null
+  * min 3, max 100
+* Add exception handler to Customer Controller
+* Provide information back to consumer in error response
