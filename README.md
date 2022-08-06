@@ -24,3 +24,9 @@ Assignment 3:
   * min 3, max 100
 * Add exception handler to Customer Controller
 * Provide information back to consumer in error response
+
+Assignment 4:
+* Create a Customer class in domain package
+* Implement MapStruct interface to:
+  * Convert Customer to CustomerDto
+  * Convert CustomerDTO to Customer
