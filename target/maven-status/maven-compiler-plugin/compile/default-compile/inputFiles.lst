@@ -4,6 +4,7 @@
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-brewery/src/main/java/guru/springframework/msscbrewery/services/v2/BeerServiceV2.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-brewery/src/main/java/guru/springframework/msscbrewery/MsscBreweryApplication.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-brewery/src/main/java/guru/springframework/msscbrewery/web/controller/v1/BeerController.java
+/media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-brewery/src/main/java/guru/springframework/msscbrewery/domain/Customer.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-brewery/src/main/java/guru/springframework/msscbrewery/web/controller/MvcExceptionHandler.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-brewery/src/main/java/guru/springframework/msscbrewery/services/v1/BeerServiceImpl.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-brewery/src/main/java/guru/springframework/msscbrewery/domain/Beer.java
@@ -13,5 +14,7 @@
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-brewery/src/main/java/guru/springframework/msscbrewery/web/model/v2/BeerStyleEnum.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-brewery/src/main/java/guru/springframework/msscbrewery/web/model/v2/BeerDtoV2.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-brewery/src/main/java/guru/springframework/msscbrewery/web/model/v1/BeerDto.java
+/media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-brewery/src/main/java/guru/springframework/msscbrewery/web/mappers/CustomerMapper.java
+/media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-brewery/src/main/java/guru/springframework/msscbrewery/web/mappers/DateMapper.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-brewery/src/main/java/guru/springframework/msscbrewery/services/v1/CustomerServiceImpl.java
 /media/djwarwick/Warehouse/Workspaces/Intellij IDEA/mssc-brewery/src/main/java/guru/springframework/msscbrewery/web/controller/v2/BeerControllerV2.java
